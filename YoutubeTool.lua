@@ -10,7 +10,7 @@ mediaStorage = resolve:GetMediaStorage()
 davinci_Edit_path = [[%appdata%/Blackmagic Design/DaVinci Resolve/Support/Fusion/Scripts/Edit/]]
 youtubeDL_path = [[']]..davinci_Edit_path..[[youtube-dl.exe']]
 
-base_path = [[G:/Video Material/Project/YoutubeTool/]]
+base_path = [[%appdata%/Blackmagic Design/DaVinci Resolve/]]
 download_path = base_path..proj:GetName()..[[/]]
 thumbnail_path = base_path..[[MQ-Thumbnails/]]
 
